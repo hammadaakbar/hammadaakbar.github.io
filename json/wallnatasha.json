@@ -1,22 +1,23 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
-      "select_backup_ads": "APPLOVIN",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-1047790124869633/2814052403",
+      "main_ads_intertitial":"ca-app-pub-1047790124869633/5777028259",
+      "native_for_admob":"ca-app-pub-1047790124869633/8276388452",
+      "backup_ads_banner":"3fe24e51c91eff36",
+      "backup_ads_intertitial":"18d93ad0844f81bf",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-1047790124869633/4389114334",
-      "admob_nativeid": "ca-app-pub-1047790124869633/6319953739",
-      "admob_openid": "ca-app-pub-1047790124869633/6823705986",
-      "interval": 3,
-      "startappid": "201669628",
-      "fan_inter": "612492376332507_612493222999089",
-      "fan_banner_native": "612492376332507_612492762999135",
-      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_inter": "24534e1901884e398f1253216226017e",
-      "applovin_banner": "0da14ad955a2c1d1",
-      "applovin_inter": "11baee45b5bef90d",
-      "packagename": "com.iqdev.wallnay"
+      "link_redirect": "https://"
     }
   ],
   "More":
